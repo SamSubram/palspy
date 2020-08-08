@@ -1,0 +1,4 @@
+Rank	City	Population
+(2011)[3]	Population
+(2001)	State or union territory
+1	Mumbai	12,442,
